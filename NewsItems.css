@@ -1,0 +1,29 @@
+.card-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #111;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: 500;
+    color: #777;
+}
+.nav-section{
+    color: #fff;
+}
+.main-heading{
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    padding-top: 40px;
+    color: dark;
+}
+.main-heading1{
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    padding-top: 40px;
+    color: rgb(16, 16, 228);
+}
